@@ -1,0 +1,27 @@
+# 📂 Project Structure
+
+```bash
+my-ford-benefits/
+├── node_modules/
+├── public/
+│   ├── index.html
+│   └── manifest.json
+├── src/
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js
+│   ├── index.css
+│   └── index.js
+├── src_components/
+│   ├── ExpenseForm.css          # Renamed logically for this project context
+│   ├── ExpenseForm.js           # Renamed logically for this project context
+│   ├── ExpenseList.css          # Renamed logically for this project context
+│   ├── ExpenseList.js           # Renamed logically for this project context
+│   ├── Header.css
+│   ├── Header.js
+│   ├── Receipt.css              # Renamed logically for this project context
+│   └── Receipt.js               # Renamed logically for this project context
+├── .gitignore
+├── package.json
+├── README.md
+└── CONTRIBUTING.md
